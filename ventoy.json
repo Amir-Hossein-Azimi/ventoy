@@ -1,7 +1,7 @@
 {    
 "menu_alias": [
         {
-            "image": "/Acronis-True.Image.2021.v25.10.1.*****.Boot.CD.iso",
+            "image": "/Acronis.True.Image.2021.v25.10.1.39287.Boot.CD.iso",
             "alias": "Acronis True Image"
         },
         {
@@ -14,16 +14,25 @@
         },
         {
             "image": "/linuxmint-21.3-cinnamon-64bit.iso",
-            "alias": "linuxmint 21.3 cinamon"
+            "alias": "linux mint 21.3 cinamon"
         },
         {
             "image": "/Win11_23H2_English_x64.iso",
             "alias": "windows 11 23H2 x64"
         },
         {
-            "image": "/pop-os_24.04_amd64_nvidia_9_2.iso",
-            "alias": "Pop os 24.04LTS COSMIC Epoch 1 (alpha 1) "
+            "image": "/pop-os_22.04_amd64_nvidia_43.iso",
+            "alias": "Pop os 22.04 Gnome LTS Nvidia "
+        },
+        {
+            "image": "/linuxmint-22-xfce-64bit_2.iso",
+            "alias": "linux mint 22 xfce"
+        },
+        {
+            "image": "/debian-live-12.6.0-amd64-kde.iso",
+            "alias": "debian 12 KDE 12.6.0"
         }
+
     ],
 
     "theme": {
@@ -82,7 +91,7 @@
             "class": "chakra"
         },        
        {
-            "key": "Debian",
+            "key": "debian",
             "class": "debian"
         },        
        {
