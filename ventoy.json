@@ -31,6 +31,14 @@
         {
             "image": "/debian-live-12.6.0-amd64-kde.iso",
             "alias": "debian 12 KDE 12.6.0"
+        },
+        {
+            "image": "/EndeavourOS_Endeavour-2024.06.25.iso",
+            "alias": "EndeavourOS KDE 2024.06.25"
+        },
+        {
+            "image": "/Parchlinux-Plasma-latest.iso",
+            "alias": "Parchlinux KDE"
         }
 
     ],
@@ -99,7 +107,7 @@
             "class": "deepin"
         },        
        {
-            "key": "Endeavouros",
+            "key": "EndeavourOS",
             "class": "endeavouros"
         },        
        {
@@ -166,9 +174,13 @@
             "key": "CentOS",
             "class": "centos"
         },
-	{
+	    {
             "key": "Tails",
             "class": "otherLinux"
+        },
+        {
+            "key": "Parchlinux",
+            "class": "parch"
         }
     ]
 
