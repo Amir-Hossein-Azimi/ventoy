@@ -15,3 +15,6 @@ This repository provides a custom Goku theme for Ventoy. Follow the instructions
    - دقت کنید که اسم فولدر استخراج شده "ventoy" باشد. 
     - بعد استخراج کردن فایل های "LICENCE"و"Readme" را حذف نمایید 
 
+
+    -----------------------------------------------------------------------
+
