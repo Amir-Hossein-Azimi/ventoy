@@ -181,7 +181,12 @@
         {
             "key": "Parchlinux",
             "class": "parch"
+        },
+        {
+            "key": "nixlinux",
+            "class": "pngegg"
         }
+
     ]
 
 }
